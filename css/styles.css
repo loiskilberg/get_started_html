@@ -56,6 +56,9 @@ align-items: center;
 
 nav {
   margin-left: 20pt;
+  color: blue;
+  border: solic;
+  background-color: orange;
 }
 
 nav p {
