@@ -80,7 +80,8 @@ article {
 }
 
 article header {
-  font-style: emphasis;
+  font-style: italic;
+  background-color: blanchedalmond;
 }
 
 article p {
