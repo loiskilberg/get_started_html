@@ -24,7 +24,7 @@ body {
 }
 
 a {
-  color: #52d3aa;
+  color: #1f1784;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -56,9 +56,9 @@ align-items: center;
 
 nav {
   margin-left: 20pt;
-  color: coral;
+  color: #662fa0;
   border: solid;
-  background-color: beige;
+  background-color: #f0deff;
 }
 
 nav p {
@@ -81,7 +81,7 @@ article {
 
 article header {
   font-style: italic;
-  background-color: blanchedalmond;
+  background-color: #e1e4ff;
 }
 
 article p {
@@ -97,7 +97,7 @@ aside {
 }
 
 aside h2 {
-  font-size: 14px;  
+  font-size: 16pt;  
 }
 
 .quotation p {
